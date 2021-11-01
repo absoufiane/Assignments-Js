@@ -1,0 +1,1 @@
+document.getElementById("time").innerHTML=new Date().toLocaleDateString();   //Display Date in Browser
