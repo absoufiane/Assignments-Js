@@ -1,0 +1,1 @@
+console.log("Welcome to JavaScript");   // Display on Console the Browser
